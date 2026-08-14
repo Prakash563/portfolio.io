@@ -6,6 +6,8 @@ I am **Prakash Dora**, an undergraduate Computer Science and Engineering student
 
 This repository contains my personal portfolio website. It presents my projects, learning path, technical toolkit, internships, and links to the repositories where the work can be inspected.
 
+**Live portfolio:** [prakash563.github.io/portfolio.io](https://prakash563.github.io/portfolio.io/)
+
 ## About me
 
 I am currently pursuing a B.E. in Computer Science and Engineering with a **9.09 / 10 CGPA**. My interests are data science, machine learning, AI systems, and backend-oriented application development. My project work includes EV battery health prediction, multi-domain AI inference, medical classification workflows, customer churn analytics, and Java applications.
